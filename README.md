@@ -1,4 +1,4 @@
-*Dont use enso, it will probably bootloop / freeze the console* - for people who know what there doing only!
+*Dont use enso with this, it will probably bootloop / freeze the console*
 
 # nand-dumper
 
