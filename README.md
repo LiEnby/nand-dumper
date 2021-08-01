@@ -1,4 +1,7 @@
+*Dont use enso, it will probably bootloop / freeze the console* - for people who know what there doing only!
+
 # nand-dumper
+
 Dumps the PSVita's entire decrypted NAND (sdstor0:/int-lp-act-entire)
 to ux0:/int-lp-act-entire.img 
 
